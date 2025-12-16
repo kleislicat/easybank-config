@@ -1,1 +1,0 @@
-# eazybank-config
